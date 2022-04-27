@@ -1,7 +1,7 @@
 # Vistar-Media-Code-Challenge
 Created with CodeSandbox
 
-#**I have created this guess number app for Vistar Media code challenge.**
+**I have created this guess number app for Vistar Media code challenge.**
 
 # Guess The Number
 
