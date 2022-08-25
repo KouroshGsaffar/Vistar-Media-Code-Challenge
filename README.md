@@ -3,6 +3,8 @@ Created with CodeSandbox
 
 **I have created this guess number app for Vistar Media code challenge.**
 
+CodesandBox link: https://codesandbox.io/s/code-puzzle-hnomq1
+
 # Guess The Number
 
 At Vistar, we like to play "Guess the Number" in our downtime. One of our
